@@ -2,7 +2,7 @@ public class jpaz {
 
     private String saludoParrafo = "Hola a todos, bienvenidos a Coffe & Java. \nEsto es un tutorial de como usar java desde la terminal!\n";
     private String[] versionParrafo = {
-        "1_ Primero debemos comprobar tener instalado java en nuestro ordenados",
+        "1_ Primero debemos comprobar tener instalado java en nuestro ordenador",
         "Para ver que  version de Java tenemos instalado, ejecutamos el siguiente comando:",
         "\n\"java -version\"",
         "\n",
@@ -28,7 +28,10 @@ public class jpaz {
         "\n",
         "5_ Para ejecutar el archivo \".class\" debemos ejecutar el siguiente comando:",
         "\n\"java jpaz\"",
-        "6_ Si todo salio bien, deberia salirte literalmente, este mismo mensaje. Bueno esto creo que es el concepto de la recursividad, pero lo importante es que aprendiste a como ejecutar un codigo de Java desde la terminal"
+        "\n",
+        "6_ Si todo salio bien, deberia salirte literalmente, este mismo mensaje. Bueno esto creo que es el concepto de la recursividad,",
+        "pero lo importante es que aprendiste a como ejecutar un codigo de Java desde la terminal.",
+        "\n",
     };
     public void saludo(){
         String barrita = "";
