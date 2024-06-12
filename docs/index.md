@@ -14,7 +14,7 @@ Si no te sale un mensaje de error, adelante. De lo contrario, te invito a que lo
 
 ---
 
-- Fuente : [La Geekipedia de Ernesto | Curso de Java desde Cero #2](https://www.youtube.com/watch?v=Cs5ymoNkrX8)
+- Fuente: [La Geekipedia de Ernesto - Curso de Java desde Cero #2](https://www.youtube.com/watch?v=Cs5ymoNkrX8)
 
 ---
 
