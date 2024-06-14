@@ -38,11 +38,11 @@ Una vez en nuestro nuevo espacio de trabajo, para ejecutar un codigo de `Java`, 
 
 Para verificar si nuestro archivo se compilo con exito, ejecutamos el comando `ls` en la terminal, y si aparece el archivo `jpaz.class`, es porque nuestro archivo `.java` fue compilado con exito:
 
-![alt text](./img/image.png)
+![alt text](.docs/img/image.png)
 
 Si todo esta en orden, para finalizar ejecutamos el comando `java jpaz`, y en nuestra terminal de comandos, te vas a encontrar con el siguiente mensaje:
 
-![alt text](./img/image-2.png)
+![alt text](.docs/img/image-2.png)
 
 El codigo que ejecutamos recien, es un codigo que imprime por consola, un tutorial de como ejecutar desde la terminal un codigo `Java` (Caiste en un bucle jaja).
 
