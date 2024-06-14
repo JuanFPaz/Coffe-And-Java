@@ -32,7 +32,7 @@ A continuacion, nos dirigimos a nuestro directorio clonado en la terminal ejecut
     cd Coffee-And-Java
 ```
 
-Una vez en nuestro nuevo espacio de trabajo, para ejecutar un codigo de `Java`, deberiamos compilar el archivo [jpaz.java](../jpaz.java) con el siguiente comando:
+Una vez en nuestro nuevo espacio de trabajo, para ejecutar un codigo de `Java`, deberiamos compilar el archivo [jpaz.java](https://github.com/JuanFPaz/Coffee-And-Java/blob/main/jpaz.java) con el siguiente comando:
 
 ```bash
     javac jpaz.java
@@ -44,7 +44,7 @@ Para verificar si nuestro archivo se compilo con exito, ejecutamos el comando `l
 
 Si todo esta en orden, para finalizar ejecutamos el comando `java jpaz`, y en nuestra terminal de comandos, te vas a encontrar con el siguiente mensaje:
 
-![alt text](./img/image2.png)
+![alt text](./img/image-2.png)
 
 El codigo que ejecutamos recien, es un codigo que imprime por consola, un tutorial de como ejecutar desde la terminal un codigo `Java` (Caiste en un bucle jaja).
 
