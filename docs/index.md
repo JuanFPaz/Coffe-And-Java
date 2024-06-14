@@ -4,7 +4,7 @@
 
 ## Atencion!
 
-Para este Tutorial, lo ideal es que tengan instalado `JDK` en nuestro ordenador, si no estas seguro de que tenes instalado el `JDK`, ejecuta el siguiente comando:
+Para este Tutorial, lo ideal es que tengan instalado `Java` en , si no estas seguro de que tenes instalado el `Java`, ejecuta el siguiente comando:
 
 ```bash
     java -version
@@ -46,6 +46,6 @@ Si todo esta en orden, para finalizar ejecutamos el comando `java jpaz`, y en nu
 
 ![alt text](./img/image2.png)
 
-El codigo que ejecutamos recien, es un codigo que imprime por consola, un tutorial de como ejecutar un comando de `Java` (Caiste en un bucle jaja).
+El codigo que ejecutamos recien, es un codigo que imprime por consola, un tutorial de como ejecutar desde la terminal un codigo `Java` (Caiste en un bucle jaja).
 
 Esto fue todo y espero que te haya gustado. Hasta luego.
